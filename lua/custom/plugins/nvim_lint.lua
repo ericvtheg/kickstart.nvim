@@ -11,6 +11,7 @@ return {
       typescript = { 'eslint_d' },
       javascriptreact = { 'eslint_d' },
       typescriptreact = { 'eslint_d' },
+      svelte = { 'eslint_d' },
     }
 
     -- Lint after saves or when leaving insert; skip BufRead to avoid stale diagnostics on open

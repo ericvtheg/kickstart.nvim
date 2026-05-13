@@ -15,6 +15,7 @@ return { -- Autoformat
       typescriptreact = { 'prettierd', 'eslint_d' },
       javascript = { 'prettierd', 'eslint_d' },
       javascriptreact = { 'prettierd', 'eslint_d' },
+      svelte = { 'prettierd' },
       -- yaml = { 'yamlfmt' }, -- Disabled: too opinionated, reformats entire file
       -- yml = { 'yamlfmt' },  -- Disabled: too opinionated, reformats entire file
       json = { 'prettierd' },

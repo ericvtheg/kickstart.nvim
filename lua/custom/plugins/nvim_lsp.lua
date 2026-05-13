@@ -194,6 +194,7 @@ return { -- LSP Configuration & Plugins
       -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
       ts_ls = {},
       prismals = {},
+      svelte = {},
       lua_ls = {
         -- cmd = {...},
         -- filetypes = { ...},
